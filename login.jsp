@@ -21,7 +21,7 @@
 
 	<nav class="navbar navbar-default">
 
-		<a href="/" class="navbar-brand">Brand</a>
+		
 
 		<ul class="nav navbar-nav">
 			<li class="active"><a href="#">Home</a></li>
@@ -48,7 +48,7 @@
 	</div>
 
 	<footer class="footer">
-		<div>content</div>
+	
 	</footer>
 
 	<script src="webjars/jquery/1.9.1/jquery.min.js"></script>
